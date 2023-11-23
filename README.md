@@ -1,5 +1,7 @@
 <h1 align="center"> Projeto Discover | Rocketseat </h1>
 
+<p align="center"><a href="https://lucasfierce.github.io/projeto-discover/"> >>Confira aqui o projeto<< </a></p>
+
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
@@ -14,7 +16,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <p align="center">
   <img alt="Projeto Discover - Preview" src=".github/preview.png">
 </p>
-
 
 ## 🚀 Tecnologias
 
